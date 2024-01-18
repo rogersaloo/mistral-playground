@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Mixtral-8x7B-Instruct-v0.1-offloading-demo/*
 # C extensions
 *.so
 

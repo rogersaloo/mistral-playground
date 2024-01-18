@@ -24,3 +24,8 @@ Some techniques described in our technical report are not yet available in this 
 Some of the upcoming features are:
 * Support for other quantization methods
 * Speculative expert prefetching
+
+
+# RUNNING
+1. Install `pip install -r requiremrnts.txt`
+2. Download all the mistral models `huggingface-cli download lavawolfiee/Mixtral-8x7B-Instruct-v0.1-offloading-demo --quiet --local-dir Mixtral-8x7B-Instruct-v0.1-offloading-demo`
